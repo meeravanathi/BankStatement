@@ -36,3 +36,10 @@ A **Spring Boot + PostgreSQL + Mailtrap** application that generates monthly **b
 ## Screenshots of the output
 <img width="1310" height="723" alt="Screenshot 2025-11-02 182737" src="https://github.com/user-attachments/assets/cc5f22cb-c37d-488c-91c4-27b13a9b35fa" />
 
+<img width="1596" height="364" alt="Screenshot 2025-11-02 182720" src="https://github.com/user-attachments/assets/55d443ab-4d87-4849-bee7-6f7af0f871ab" />
+
+<img width="1007" height="717" alt="Screenshot 2025-11-02 182153" src="https://github.com/user-attachments/assets/fcbcc8ff-901c-48b3-9da4-638559a74cc3" />
+
+<img width="1250" height="824" alt="Screenshot 2025-11-02 174222" src="https://github.com/user-attachments/assets/2f031d6f-b175-4b21-9aee-26d370535a8d" />
+
+<img width="1265" height="847" alt="Screenshot 2025-11-02 173946" src="https://github.com/user-attachments/assets/34ccd7e8-3bcf-4c40-b165-47e2a03d4e6a" />
